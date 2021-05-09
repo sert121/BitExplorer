@@ -1,0 +1,16 @@
+Pillow
+merkletools
+requests
+streamlit
+pandas
+numpy
+altair
+pandas
+docx2txt
+uuid
+matplotlib
+pickle
+uuid
+hashlib
+re
+
