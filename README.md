@@ -24,7 +24,7 @@ pip install requirements.txt
 
 ## Usage
 The web interface is available at : [[2]](http://206.189.131.95:8501/)  
-To locally run the project: ```streamlit run toc.py```
+To locally run the project: ```streamlit run toc.py```  
 A demo of of the interface and its usage can be found here[[3]](https://drive.google.com/file/d/1pgz_9rawK219MLb1qTkd9IHy-2N0SKTw/view?usp=sharing)
 
 ## Contributing
